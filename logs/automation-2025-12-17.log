@@ -1,0 +1,53 @@
+13:32:33.$33 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+13:32:33.$33 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC004 PDP Add To Cart testing ***
+13:32:35.$35 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+13:32:35.$35 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC009 Add To Wishlist From Minicart testing ***
+13:32:36.$36 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+13:32:36.$36 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC009 Remove From The Wislist From Minicart testing ***
+13:32:52.$52 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:33:08.$08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\codilar\eclipse-workspace\TGRFramework\master3.xml
+
+14:33:25.$25 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked Country Dropdown
+14:33:25.$25 [main] INFO  testCases.TC001_AccountRegistrationTest - Selected the Country
+14:33:25.$25 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the Checkbox
+14:33:31.$31 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+14:33:32.$32 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account button
+14:33:32.$32 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:33:34.$34 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:33:39.$39 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+14:33:39.$39 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC002 login testing ***
+14:33:42.$42 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting Login Details
+14:33:48.$48 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC002 login testing ***
+14:33:48.$48 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC007 PLP Add To Cart testing ***
+14:34:00.$00 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:34:02.$02 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC004 PDP Add To Cart testing ***
+14:34:03.$03 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:34:03.$03 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC004 PDP Add To Cart testing ***
+14:34:04.$04 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:34:04.$04 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC009 Add To Wishlist From Minicart testing ***
+14:34:06.$06 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:34:06.$06 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC009 Remove From The Wislist From Minicart testing ***
+14:34:12.$12 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:37:07.$07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\codilar\eclipse-workspace\TGRFramework\master3.xml
+
+14:37:30.$30 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked Country Dropdown
+14:37:30.$30 [main] INFO  testCases.TC001_AccountRegistrationTest - Selected the Country
+14:37:30.$30 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the Checkbox
+14:37:36.$36 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+14:37:37.$37 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account button
+14:37:37.$37 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:37:39.$39 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:37:42.$42 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+14:37:42.$42 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC002 login testing ***
+14:37:45.$45 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting Login Details
+14:37:54.$54 [main] INFO  testCases.TC001_AccountRegistrationTest - *** finished TC002 login testing ***
+14:37:54.$54 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC007 PLP Add To Cart testing ***
+14:38:08.$08 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:38:09.$09 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC004 PDP Add To Cart testing ***
+14:38:10.$10 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:38:10.$10 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC004 PDP Add To Cart testing ***
+14:38:11.$11 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:38:12.$12 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC009 Add To Wishlist From Minicart testing ***
+14:38:13.$13 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed

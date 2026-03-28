@@ -1,6 +1,32 @@
-12:24:23.$23 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the Checkbox
-12:24:29.$29 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
-12:24:29.$29 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account button
-12:24:30.$30 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
-12:24:33.$33 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
-12:24:37.$37 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+14:38:13.$13 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC009 Remove From The Wislist From Minicart testing ***
+14:38:28.$28 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:38:29.$29 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC009 Increase Product Quantity In Minicart testing ***
+14:38:32.$32 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:38:32.$32 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC009 Decrease Product Quantity In Minicart testing ***
+14:38:35.$35 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:38:36.$36 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC009 Apply Coupon Code In Mini Cart testing ***
+14:38:36.$36 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:38:36.$36 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC009 Remove Coupon Code In Mini Cart testing ***
+14:38:36.$36 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:38:36.$36 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC009 Remove Coupon Code In Mini Cart testing ***
+14:38:36.$36 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:38:37.$37 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC006 Add Free Bee testing ***
+14:38:38.$38 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:38:38.$38 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC006 Remove Free Bee testing ***
+14:38:38.$38 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:38:38.$38 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC006 Add To Wishlist From Cart Page testing ***
+14:38:43.$43 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:38:43.$43 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC006 Remove From The Wislist From Cart Page testing ***
+14:38:59.$59 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:38:59.$59 [main] INFO  testCases.TC001_AccountRegistrationTest - *** staring TC006 Increase Product Quantity In Cart Page testing ***
+14:39:02.$02 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+19:22:56.$56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\codilar\eclipse-workspace\TGRFramework\master3.xml
+
+19:23:14.$14 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked Country Dropdown
+19:23:14.$14 [main] INFO  testCases.TC001_AccountRegistrationTest - Selected the Country
+19:23:15.$15 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the Checkbox
+19:23:21.$21 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+19:23:21.$21 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account button
+19:23:22.$22 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+19:23:24.$24 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
